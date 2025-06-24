@@ -1,0 +1,48 @@
+.navbar-brand img{
+    height: 100px;
+}
+
+header{
+    background-color: #CCC;
+}
+.navbar-collapse{
+    justify-content: end;
+}
+
+.nav-item{
+    /*border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color:#333;*/
+    border-left: 1px solid #333;
+    padding: 0 20px;
+}
+
+.nav-item:first-child{
+    border-left: none;
+}
+
+
+.nav_link{
+    font-size: 18px;
+
+}
+
+
+.nav_link:houver{
+    opacity: 0.4;
+    transition: 0.5s;
+} 
+
+
+.carousel-item img{
+    height: 650px;
+
+}
+
+
+.container{
+    width: 300px;
+    margin: 50px;
+    
+}
+ 
